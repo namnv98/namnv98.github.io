@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 0.0.1
     created: "2024-06-17T21:25:11.86898057+07:00"
-    description: gossip handle all chat feature
+    description: chat handle all chat feature
     digest: 392f6a5065be487f99cf8434fb90b5133f9a3957333429699c68257d8679f022
     name: message-chat
     type: application
@@ -14,7 +14,7 @@ entries:
   - apiVersion: v2
     appVersion: 0.0.1
     created: "2024-06-17T21:25:11.868721242+07:00"
-    description: gossip handle all chat feature
+    description: chat handle all chat feature
     digest: c2675d8c2b130c7e30a924348722f5a4080b9c3954bdd9a11b570714d8f6fc50
     name: message-chat
     type: application
