@@ -3,7 +3,7 @@ entries:
   message-chat:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-17T23:19:41.578745023+07:00"
+    created: "2024-06-17T23:23:04.427328713+07:00"
     description: gossip handle all chat feature
     digest: 392f6a5065be487f99cf8434fb90b5133f9a3957333429699c68257d8679f022
     name: message-chat
@@ -13,7 +13,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-17T23:19:41.578534308+07:00"
+    created: "2024-06-17T23:23:04.427116839+07:00"
     description: gossip handle all chat feature
     digest: c2675d8c2b130c7e30a924348722f5a4080b9c3954bdd9a11b570714d8f6fc50
     name: message-chat
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://namnv98.github.io/charts/message-chat-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-17T23:19:41.578207872+07:00"
+generated: "2024-06-17T23:23:04.426784771+07:00"
