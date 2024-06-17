@@ -3,32 +3,32 @@ entries:
   message-chat:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T00:50:44.32584804+07:00"
+    created: "2024-06-18T00:56:11.225311364+07:00"
     description: gossip handle all chat feature
     digest: f2e6a4b9251b1518344f44dd5247ea0f03831b8d13209f0e6a3eabd78b4b95b9
     name: message-chat
     type: application
     urls:
-    - https://namnv98.github.io/charts/charts/message-chat-1.0.2.tgz
+    - https://namnv98.github.io/charts/message-chat-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T00:50:44.325640729+07:00"
+    created: "2024-06-18T00:56:11.225078969+07:00"
     description: gossip handle all chat feature
     digest: 086dc38d035d05ed43c7617cf604abdc71798afe9709076acfcd5950b4fe7d2b
     name: message-chat
     type: application
     urls:
-    - https://namnv98.github.io/charts/charts/message-chat-1.0.1.tgz
+    - https://namnv98.github.io/charts/message-chat-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T00:50:44.325419241+07:00"
+    created: "2024-06-18T00:56:11.224835603+07:00"
     description: gossip handle all chat feature
     digest: c2675d8c2b130c7e30a924348722f5a4080b9c3954bdd9a11b570714d8f6fc50
     name: message-chat
     type: application
     urls:
-    - https://namnv98.github.io/charts/charts/message-chat-1.0.0.tgz
+    - https://namnv98.github.io/charts/message-chat-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-18T00:50:44.325095054+07:00"
+generated: "2024-06-18T00:56:11.223536073+07:00"
