@@ -3,7 +3,7 @@ entries:
   message-chat:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T09:52:49.135284214Z"
+    created: "2024-06-18T09:56:11.66415978Z"
     description: gossip handle all chat feature
     digest: f2e6a4b9251b1518344f44dd5247ea0f03831b8d13209f0e6a3eabd78b4b95b9
     name: message-chat
@@ -13,7 +13,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T09:52:49.135005135Z"
+    created: "2024-06-18T09:56:11.66278137Z"
     description: gossip handle all chat feature
     digest: 086dc38d035d05ed43c7617cf604abdc71798afe9709076acfcd5950b4fe7d2b
     name: message-chat
@@ -23,7 +23,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-06-18T09:52:49.134681971Z"
+    created: "2024-06-18T09:56:11.66098572Z"
     description: gossip handle all chat feature
     digest: c2675d8c2b130c7e30a924348722f5a4080b9c3954bdd9a11b570714d8f6fc50
     name: message-chat
@@ -34,12 +34,12 @@ entries:
   notification:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-06-18T09:52:49.135580347Z"
+    created: "2024-06-18T09:56:11.670108433Z"
     description: gossip handle all chat feature
-    digest: 5212de333fe9721c5cd5717b41e7eaaae0a015f00379f3b2cb1b09d26b0a79e8
+    digest: eca811f1547f6910133fd37ad3bd91568c2e7d758af46601aa21d696b4bcb3c6
     name: notification
     type: application
     urls:
     - https://namnv98.github.io/charts/notification-1.0.2.tgz
     version: 1.0.2
-generated: "2024-06-18T09:52:49.134230074Z"
+generated: "2024-06-18T09:56:11.647587182Z"
