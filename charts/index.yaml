@@ -73,6 +73,16 @@ entries:
     - https://namnv98.github.io/charts/notification-1.0.136.tgz
     version: 1.0.136
   - apiVersion: v2
+    appVersion: 1.0.8
+    created: "2024-06-19T10:16:44.734331526Z"
+    description: gossip handle all chat feature
+    digest: cf15899180af82e94149b05c053345780c82c7c79272b9cd83d2a17e9f7cdc0b
+    name: notification
+    type: application
+    urls:
+    - https://namnv98.github.io/charts/notification-1.0.8.tgz
+    version: 1.0.8
+  - apiVersion: v2
     appVersion: 1.0.7
     created: "2024-06-19T10:13:23.885995793Z"
     description: gossip handle all chat feature
@@ -142,4 +152,4 @@ entries:
     urls:
     - https://namnv98.github.io/charts/notification-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-19T10:13:23.875904642Z"
+generated: "2024-06-19T10:16:44.731883167Z"
