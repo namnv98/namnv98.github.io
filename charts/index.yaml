@@ -34,7 +34,7 @@ entries:
   notification:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-06-22T06:30:22.84111436Z"
+    created: "2024-06-22T06:39:26.080314261Z"
     description: gossip handle all chat feature
     digest: fc20e262fa015a359f78fa10a04ab9e97a7fe039290d758523d9b3a41336d2c8
     name: notification
@@ -84,7 +84,7 @@ entries:
     version: 1.0.136
   - apiVersion: v2
     appVersion: 1.0.18
-    created: "2024-06-22T06:30:22.835132358Z"
+    created: "2024-06-22T06:39:26.072361551Z"
     description: gossip handle all chat feature
     digest: c5fe0a784500c7c062434344301ad8645e19d0d4305d4d4e55beddc84eb4b730
     name: notification
@@ -94,7 +94,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2024-06-22T06:30:22.834732304Z"
+    created: "2024-06-22T06:39:26.072061052Z"
     description: gossip handle all chat feature
     digest: 85e457c65248a5f07ba8b1c688e88a75dc2db7b255598ec94b90984989623b2e
     name: notification
@@ -104,7 +104,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2024-06-22T06:30:22.840770579Z"
+    created: "2024-06-22T06:39:26.079724442Z"
     description: gossip handle all chat feature
     digest: c3e328ca88e84cd8ec94e440723cde8bacb338eedc9565953a333e99d698ad08
     name: notification
@@ -114,7 +114,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2024-06-22T06:30:22.840307127Z"
+    created: "2024-06-22T06:39:26.075431252Z"
     description: gossip handle all chat feature
     digest: cf15899180af82e94149b05c053345780c82c7c79272b9cd83d2a17e9f7cdc0b
     name: notification
@@ -174,9 +174,9 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-06-22T06:30:22.834304477Z"
+    created: "2024-06-22T06:39:26.071695861Z"
     description: gossip handle all chat feature
-    digest: f080497df818c884cce206ed28e7e1a430cb59557eec0ffde6d8532ab28cae7d
+    digest: fd4d105fc26d07c33d18d137e8e8230dd3ac7fd35e1ec266c9dfb5702d1747b8
     name: notification
     type: application
     urls:
@@ -192,4 +192,4 @@ entries:
     urls:
     - https://namnv98.github.io/charts/notification-1.0.0.tgz
     version: 1.0.0
-generated: "2024-06-22T06:30:22.832350307Z"
+generated: "2024-06-22T06:39:26.071063062Z"
