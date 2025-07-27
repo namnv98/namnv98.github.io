@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-07-27T23:39:49.472345568+07:00"
+entries:
+  notification:
+  - apiVersion: v2
+    appVersion: 1.0.18
+    created: "2025-07-27T16:53:04.454820763Z"
+    description: gossip handle all chat feature
+    digest: 301a502b2aad8d4e80254db24c2a200ed749234ead23f5cfbf2390ce7a1018a5
+    name: notification
+    type: application
+    urls:
+    - https://namnv98.github.io/charts/notification-1.0.18.tgz
+    version: 1.0.18
+generated: "2025-07-27T16:53:04.454383096Z"
