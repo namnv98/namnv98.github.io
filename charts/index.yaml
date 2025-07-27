@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   notification:
   - apiVersion: v2
+    appVersion: 1.0.31
+    created: "2025-07-27T18:12:12.229624495Z"
+    description: gossip handle all chat feature
+    digest: d18dbb9af4ce012856ca5f3bfdcd6a3813f3d70954739e490f699d4e2eea7faf
+    name: notification
+    type: application
+    urls:
+    - https://namnv98.github.io/charts/notification-1.0.31.tgz
+    version: 1.0.31
+  - apiVersion: v2
     appVersion: 1.0.30
-    created: "2025-07-27T18:02:05.009045806Z"
+    created: "2025-07-27T18:12:12.229383099Z"
     description: gossip handle all chat feature
     digest: c0bfd0ca750fad29c335609bae95391fc11f15db26d325a7ca39d0d65dce3a4e
     name: notification
@@ -13,7 +23,7 @@ entries:
     version: 1.0.30
   - apiVersion: v2
     appVersion: 1.0.25
-    created: "2025-07-27T18:02:05.008587314Z"
+    created: "2025-07-27T18:12:12.22916493Z"
     description: gossip handle all chat feature
     digest: 7fd668d6e4ec1e13c1abf5bc210899729e756d6a320b413f3e51f732a42cfdd7
     name: notification
@@ -23,7 +33,7 @@ entries:
     version: 1.0.25
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2025-07-27T18:02:05.007938563Z"
+    created: "2025-07-27T18:12:12.228940923Z"
     description: gossip handle all chat feature
     digest: e472c5c06eb6fdc363b9b3f2e61eba3a5e6b3d7f7d81a78e66de1a3e3143d212
     name: notification
@@ -33,7 +43,7 @@ entries:
     version: 1.0.24
   - apiVersion: v2
     appVersion: 1.0.23
-    created: "2025-07-27T18:02:05.007505017Z"
+    created: "2025-07-27T18:12:12.2287202Z"
     description: gossip handle all chat feature
     digest: a0c607f02325c702afed8151842074eac0614c8fb79980fd83c64b1658f37c32
     name: notification
@@ -43,7 +53,7 @@ entries:
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.0.22
-    created: "2025-07-27T18:02:05.007276261Z"
+    created: "2025-07-27T18:12:12.228488558Z"
     description: gossip handle all chat feature
     digest: 2f1acf2577853285396d8655c6655dfaa550c28171613a01f4a065abbae764ea
     name: notification
@@ -53,7 +63,7 @@ entries:
     version: 1.0.22
   - apiVersion: v2
     appVersion: 1.0.21
-    created: "2025-07-27T18:02:05.007061072Z"
+    created: "2025-07-27T18:12:12.228233089Z"
     description: gossip handle all chat feature
     digest: 395c82bcab1d1fcbd4ef2f2965a33ec25b9944817195bcf0f3d0e6f32759587e
     name: notification
@@ -63,7 +73,7 @@ entries:
     version: 1.0.21
   - apiVersion: v2
     appVersion: 1.0.20
-    created: "2025-07-27T18:02:05.006826649Z"
+    created: "2025-07-27T18:12:12.22788248Z"
     description: gossip handle all chat feature
     digest: 8b6a1c5eea22a0ae737ee0a24bf8d247f9c27b263ee63370f125587f2f4e93fe
     name: notification
@@ -73,7 +83,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 1.0.19
-    created: "2025-07-27T18:02:05.006590505Z"
+    created: "2025-07-27T18:12:12.227620064Z"
     description: gossip handle all chat feature
     digest: f61678520952b58a2ffe7ae0eaf1a0207ea0bbc0b30bcd70a9c457a20852420c
     name: notification
@@ -83,7 +93,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.0.18
-    created: "2025-07-27T18:02:05.005845817Z"
+    created: "2025-07-27T18:12:12.227358415Z"
     description: gossip handle all chat feature
     digest: 301a502b2aad8d4e80254db24c2a200ed749234ead23f5cfbf2390ce7a1018a5
     name: notification
@@ -91,4 +101,4 @@ entries:
     urls:
     - https://namnv98.github.io/charts/notification-1.0.18.tgz
     version: 1.0.18
-generated: "2025-07-27T18:02:05.005393438Z"
+generated: "2025-07-27T18:12:12.226904875Z"
